@@ -18,9 +18,9 @@ Code #3 - Morphometric analysis of individual cells according to the distance fr
 
 Code #4 - Preparing for the Principal Component Analysis (PCA). All image data are combined together into a single array.
 
-Code $5 - PCA and plotting. PCA is performed on different age groups and regional zones using various morphometric features of the cell.
+Code #5 - PCA and plotting. PCA is performed on different age groups and regional zones using various morphometric features of the cell.
 
-Code %6 - Linear Discriminant Analysis (LDA). LDA is performed to evaluate whether morphometric features can be used to classify cells from different regions or age groups. 
+Code #6 - Linear Discriminant Analysis (LDA). LDA is performed to evaluate whether morphometric features can be used to classify cells from different regions or age groups. 
 
 
 
